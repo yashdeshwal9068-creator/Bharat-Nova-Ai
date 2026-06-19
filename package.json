@@ -1,0 +1,17 @@
+{
+  "name": "bharat-ai-triple-engine",
+  "version": "1.0.0",
+  "description": "Bharat AI Triple Engine Compare Mode — Groq, OpenRouter Free, and Gemini Flash",
+  "main": "api/server.js",
+  "scripts": {
+    "start": "node api/server.js",
+    "dev": "node api/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
